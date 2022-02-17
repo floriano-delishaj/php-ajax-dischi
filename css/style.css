@@ -1,0 +1,39 @@
+header {
+    height: 80px;
+    background-color: #2e3a46;
+}
+
+header img {
+    height: 60px;
+    padding-left: 20px;
+}
+
+main {
+
+    height: calc(100vh - 80px);
+    background-color: #1e2d3b;
+    
+}
+
+.col-2 div {
+    background-color: #2e3a46;
+}
+
+.disk-card {
+    height: 300px;
+    padding: 10px;  
+}
+
+.disk-card img{
+    height: 50%;
+}
+
+.disk-card h6 {
+    text-transform: uppercase;
+}
+
+.disk-card p {
+
+    margin: 0;
+    color: #777;
+}
